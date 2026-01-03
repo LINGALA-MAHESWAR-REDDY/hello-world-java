@@ -13,6 +13,10 @@ public class HelloWorld {
     System.out.println("this is madhu");
     System.out.println("This is a new Line");
 
+     System.out.println("Hello, World");
+    System.out.println("this is madhu");
+    System.out.println("This is a new Line");
+
 
   }
 }
